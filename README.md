@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @github-gxxx
-- 👀 I’m interested in SwiftUI
-- 🌱 I’m currently learning iOS programming
+- 👀 I’m interested in iOS programming
+- 🌱 I’m currently learning SwiftUI
 
 <!---
 - 💞️ I’m looking to collaborate on ...
