@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @github-gxxx
-- 👀 I’m interested in iOS programming
-- 🌱 I’m currently learning SwiftUI
+- 👀 I’m interested in Metaverse
 
 <!---
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
